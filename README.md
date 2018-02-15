@@ -1,2 +1,2 @@
-# Visualisation
-Here some of the tips and tricks of plotting using matplotlib and seaborn are displayed.
+# Data Science
+Here some of the tips and tricks to deal with data are presented.
